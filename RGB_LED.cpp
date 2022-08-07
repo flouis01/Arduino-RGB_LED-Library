@@ -12,7 +12,7 @@ void RGB_LED::setup(int RED, int GREEN, int BLUE) {
   pinMode(PIN_LED_BLUE, OUTPUT);
 };
 
-void RGB_LED::Mono(int volume) {
+void RGB_LED::mono(int volume) {
   LED_RED = volume;
   LED_GREEN = volume;
   LED_BLUE = volume;
