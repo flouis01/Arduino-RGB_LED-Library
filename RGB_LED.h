@@ -11,7 +11,7 @@ class RGB_LED{
   public:
   void setup(int RED, int GREEN, int BLUE);
 
-  void Mono(int volume);
+  void mono(int volume);
 
   void RGB(int RED, int GREEN, int BLUE);
 
