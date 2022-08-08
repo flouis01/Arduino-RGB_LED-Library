@@ -2,7 +2,7 @@
   Name:
     RGB_LED_Example
   Discription:
-    This code uses the RGB_LED library to make the a RGB-LED cycle colors.
+    This code uses the RGB_LED library to make the RGB-LED cycle colors.
   Functions:
     RGB_LED [name]; creates a new RGB_LED object with the specified name. 
       .setup(int RED, int Green, int BLUE) sets the to the colors corresponding pins.
